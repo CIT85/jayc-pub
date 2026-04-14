@@ -1,8 +1,8 @@
 /* General Page Styles */
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Lucida, Courier, monospace;
     padding: 20px;
-    background-color: #f4f4f4; /* Default Gray */
+    background-color: #201d3a; /* Default Gray */
 }
 
 /* SHARED STYLES: All boxes get these rules */
@@ -11,7 +11,8 @@ body {
     width: 100%;
     margin-bottom: 20px;
     padding: 20px;
-    border: 2px solid black; /* Default Border */
+    border: 4px solid #b1a3ff; /* Default Border */
+    border-radius: 20px;
     color: white; /* Default text color inside boxes */
 }
 
